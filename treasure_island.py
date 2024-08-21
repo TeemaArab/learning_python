@@ -21,25 +21,6 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/[TomekK]
 *******************************************************************************
 '''
-#
-# print("Welcome to the treasure island."
-#       " You should find the treasure.")
-# step1 = input("You are at the crossroad. Do you want to turn left or right? type 'L or R: \n ").lower()
-#
-# if step1 == "L":
-#     step2 = input("You have come to the lake. Do you want to swim or wait? "
-#                 "type Swim or Wait \n").lower()
-#     if step2 == "Wait":
-#         step3 = input("Do you want to go inside the blue"
-#               " door, red door, or yellow door? Type B, R, Y \n").lower()
-#         if step3 == "Y":
-#             print("You win!")
-#         else:
-#             print("You lose!")
-#     else:
-#         print("game over")
-# else:
-#     print("Game over.")
 
 print("Welcome to the treasure island. You should find the treasure.")
 step1 = input("You are at the crossroad. Do you want to turn left or right? Type 'L' or 'R': \n").lower()
